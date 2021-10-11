@@ -19,3 +19,9 @@ pip install pyzbar
 ![](/Output.JPG)
 
 1. Show the QR code in the camera as shown in first image.
+
+## Contributor
+
+<a href="https://github.com/alankarartist/ALQRSCANNER/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=alankarartist/ALQRSCANNER" />
+</a>
